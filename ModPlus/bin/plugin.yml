@@ -1,0 +1,9 @@
+name: ModPlus
+version: 0.1
+author: ReyFox
+main: fr.reyfox.modplus.Index
+commands:
+  mute:
+    description: Commande permettant de mute un joueur. ex > /mute <pseudo> <temps / perm> < (H)eures / (J)ours / (M)ois > <raison>
+  unmute:
+    description: Commande permettant d'unmute un joueur. ex /unmute <pseudo>   
